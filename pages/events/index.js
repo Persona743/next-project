@@ -9,7 +9,7 @@ const Page = () => {
                 </a>
                 <a href="">
                     <img />
-                    <h2>Events in Texas</h2>
+                    <h2>Events in Florida</h2>
                 </a>
                 <a href="">
                     <img />

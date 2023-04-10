@@ -42,7 +42,7 @@ export default function Home() {
                 </a>
                 <a href="">
                     <img />
-                    <h2>Events in Texas</h2>
+                    <h2>Events in Florida</h2>
                     <p>
                         Sint voluptate duis sunt qui magna proident laborum est
                         et. Labore consequat esse velit nisi fugiat et
