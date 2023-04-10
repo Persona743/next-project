@@ -1,7 +1,7 @@
-const Page = () => {
+const EventsPage = () => {
     return (
         <div>
-            <h1>Events page</h1>
+            <h1>Event page</h1>
             <div>
                 <a href="">
                     <img />
@@ -20,4 +20,4 @@ const Page = () => {
     );
 };
 
-export default Page;
+export default EventsPage;

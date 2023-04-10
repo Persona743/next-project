@@ -1,10 +1,8 @@
 import Head from 'next/head';
-import { Inter } from 'next/font/google';
+import Image from 'next/image';
 import styles from '@/styles/Home.module.css';
 
-const inter = Inter({ subsets: ['latin'] });
-
-export default function Home() {
+export default function Home({ data }) {
     return (
         <>
             <Head>
@@ -30,36 +28,18 @@ export default function Home() {
             </header>
 
             <main className={styles.main}>
-                <a href="">
-                    <img />
-                    <h2>Events in Liverpool</h2>
-                    <p>
-                        Sint voluptate duis sunt qui magna proident laborum est
-                        et. Labore consequat esse velit nisi fugiat et
-                        exercitation non aliqua. Velit nostrud cupidatat laborum
-                        sint minim excepteur ad Lorem commodo deserunt quis.
-                    </p>
-                </a>
-                <a href="">
-                    <img />
-                    <h2>Events in Florida</h2>
-                    <p>
-                        Sint voluptate duis sunt qui magna proident laborum est
-                        et. Labore consequat esse velit nisi fugiat et
-                        exercitation non aliqua. Velit nostrud cupidatat laborum
-                        sint minim excepteur ad Lorem commodo deserunt quis.
-                    </p>
-                </a>
-                <a href="">
-                    <img />
-                    <h2>Events in Tokyo</h2>
-                    <p>
-                        Sint voluptate duis sunt qui magna proident laborum est
-                        et. Labore consequat esse velit nisi fugiat et
-                        exercitation non aliqua. Velit nostrud cupidatat laborum
-                        sint minim excepteur ad Lorem commodo deserunt quis.
-                    </p>
-                </a>
+                {data.map((item) => (
+                    <a href={`/events/${item.id}`} key={item.id}>
+                        <Image
+                            src={item.image}
+                            alt={item.title}
+                            width={200}
+                            height={100}
+                        />
+                        <h2>{item.title}</h2>
+                        <p>{item.description}</p>
+                    </a>
+                ))}
             </main>
 
             <footer className={styles.footer}>
@@ -70,4 +50,16 @@ export default function Home() {
             </footer>
         </>
     );
+}
+
+//we don't need getServerSideProps here cuz we don't need to fetched at request time but for the learning purpose we do use it anyway. who cares?! lol...
+
+export async function getServerSideProps() {
+    const { events_categories } = await import('/data/data.json');
+
+    return {
+        props: {
+            data: events_categories,
+        },
+    };
 }
