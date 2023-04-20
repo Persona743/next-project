@@ -23,7 +23,7 @@
         {
             "id": "the-randox-grand-national-festival",
             "title": "The Randox Grand National Festival",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "From Toronto to Tokyo The Randox Grand National is the race the world stops to watch. From the length of the course to the capacity of the crowd - this is an event of grand proportions. And nothing is done by halves. This is the Randox Grand National.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8Dt7X9_TQn9hTMgZ-zGEoUN2oMQtnQEYqPHUY_Ua0Rqx4NoWu8VIcHd5m1xSQXU5WZsjX-s3-QuqXYJYj9JNjBogxtIKLXgogNPfkjSWCn-6yKPifeXkHh1Ike3JoSERytJ0Zt45lJDMMn8j_2n_xk8=w750-h430-s-no?authuser=0",
             "emails_registered": []
@@ -31,7 +31,7 @@
         {
             "id": "eurovision-song-contest",
             "title": "Eurovision Song Contest",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "The Eurovision spotlight is set to shine on Liverpool as the city hosts the Eurovision Song Contest 2023.",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaW21t99j9we07_3J5esoUMWlpyxZbiXRsHqRBXbdqJxJzdE-INQrT0nHuLbdG7-KfiNt73LmuDqcIDbvkrR5btfTC6syLdnO-RYHCJ78sU7T6XjR_T0tJQsJvGmMtBbhvUY7aDm2W3ZTh_deu4OtVh1=w700-h423-s-no?authuser=0",
             "emails_registered": []
@@ -39,7 +39,7 @@
         {
             "id": "creamfields",
             "title": "Creamfields",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "Creamfields returns to Daresbury on August Bank Holiday Weekend 2023.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8DLjH1J2CXzS2UhCgG6JAmh1s-F3-PFET2Ixgk1WDC4PU7M4uYjytlvGVdsQ-Dug-KXLlIs6ngu9nFsbybl6q6J2WvXTT9SEeSraG3jH78ZUmIk-BPp7n6-6Qr7HRrNl8eG4a-5onOWTgLmgq44Gc6w=w700-h423-s-no?authuser=0",
             "emails_registered": []
@@ -47,7 +47,7 @@
         {
             "id": "wirral-golf-classic",
             "title": "Wirral Golf Classic",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "The 14th Wirral Golf Classic, a 54 hole Stableford competition for men and women amateur golfers, will be held on 17-19th September 2023 on three beautiful golf courses in Wirral, in the North West of England - Caldy, Heswall and Wallasey.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8D68cghBy5C4j04e_EH6HhczuODhFxZZZMWTYseMggx17s5K6vqcztZIDbsWung6snvR2-3t5QhxORpitwN95yl7x8PnEYnZZz9Ua2ip3e8fqOjAkNrqaoUV5-ljv6ZPEDg1UVG9apX7iWgDxXkIX2W=w700-h423-s-no?authuser=0",
             "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
@@ -55,7 +55,7 @@
         {
             "id": "river-of-light",
             "title": "River of Light",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "River of light is an outdoor illuminated gallery on liverpool waterfront lit daily, featuring light and sound from local, national and internatonal artists. ",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaWjRME7zdlGNvCrtDJvFlUBUMZy31Y7BrHR4Uat_vGC07TbiAI-1D0rUxv_GCvJlo9BR2h_Qvhp_8QzhWRv2e7uAQRuQybsnYKGBEeFreNIom7jVHRKvXmDZ4kGTJy9Qz38Wn_bA0CqwJBKLMa6AeA7=w700-h423-s-no?authuser=0",
             "emails_registered": ["monica@gmail.com"]
@@ -63,14 +63,14 @@
         {
             "id": "british-musical-fireworks-championship",
             "title": "British Musical Fireworks Championship",
-            "city": "Liverpool",
+            "city": "liverpool",
             "description": "We love music, we love colour, and we love gasping with delight at the spectacular firework displays. Southport’s British Musical Fireworks Championship is back with a bang!",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8AP0yUP5vc1TyboDalkP1hn7jtp5cyRA_nSedJWi7X1F4JlKueAWg815YFIkWJesPYuiHKBBOGgABVovXy5zFJvjcjO0a18A9xfEbDBx49p53UmxagHFJ80WhLfol6iXMu1B5UPByyYu2byrSXPaHud=w750-h430-s-no?authuser=0",
             "emails_registered": []
         },
         {
             "id": "liverpool-biennial",
-            "title": "Liverpool Biennial",
+            "title": "liverpool Biennial",
             "city": "san-francisco",
             "description": "Liverpool Biennial launches the full programme for its 12th edition, taking place from 10 June – 17 September 2023. Titled ‘uMoya: The Sacred Return of Lost Things’, the Biennial festival is curated by Khanyisile Mbongwa with Director Dr Samantha Lackey and the Liverpool Biennial Team.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8C4wwGUTEOpqa9EkzLkWwKUcnnZ6QhnD4_GA4njZUjdxlwAwBbygjWc8it3FkZiDq-YS1qf1Eo-m1K1iDym2hssclagP3_KpZMwZY3pB9Z8fJ0eJIS0QvTgAS3FryC-M4L0pyvXGal_YHQjX0fFAUO7=w700-h423-s-no?authuser=0",
@@ -86,7 +86,7 @@
         {
             "id": "orlando-taco-festival",
             "title": "Orlando Taco Festival",
-            "city": "Florida",
+            "city": "florida",
             "description": "Taco Heaven returns to Orlando with over 30 of the area's best restaurants & food trucks on April 22nd & 23rd, 2023!",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaVTarU-KL0QNbTneRLCw7ccFFWmGW6ey2sR8KY7O2n6MVngTbTWwlUXqEIzkg1WGam4PwxhvL-8VQKoBemnCUkA7gPCi1eCmJ4GDOT3ytWlUPBWlPU782qUv8INpMM480UPs5J3-PjefuNRfACz9Z5S=w940-h470-s-no?authuser=0",
             "emails_registered": []
@@ -94,7 +94,7 @@
         {
             "id": "suns3t-at-the-patio",
             "title": "SUNS3T at The Patio, The City’s Favorite Day Party!",
-            "city": "Florida",
+            "city": "florida",
             "description": "Central Florida's Favorite Day Party SUNS3T at THE PATIO returns Saturday February 18th! Experience the unmatched Hip Hop, R&B, Afro Beats, & Reggae vibe! 21&Up everyone for entry!",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaUM4ohR8LWqrUzca359_xe7eVuZOW7k8UL1o-eSXwbnQTzf-Di0OFvUO8-0r48d40itJEUEBOQK00tYwdDMzfPi2bWlUoGIkxF0wifsMpoWMBZzqeLWZvzbRiqLJpu9SOJ-pxEwb-Yywe__rKIcSX89=w940-h470-s-no?authuser=0",
             "emails_registered": []
@@ -102,7 +102,7 @@
         {
             "id": "miami-dade-countryFest",
             "title": "Miami-Dade CountryFest",
-            "city": "Florida",
+            "city": "florida",
             "description": "Join us at Tropical Park on April 15 – 16, 2023 at our Miami-Dade CountryFest, home of the International Livestock Show and Rodeo!",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8AN4KDpswjGhcBxt63Fw4r8Oqrog1p42fkUGgzYQhxgtD9Nd54Z4sjVELAKj4pL-JT69jNZJ5SmuSMPq9gwiaScsmeA06awFOTpyZ7BeFdbOTe9AUpsOqBWNA7Yf24DPy0njFbPoBmeZHXTShOE_4S9=w940-h470-s-no?authuser=0",
             "emails_registered": []
@@ -110,7 +110,7 @@
         {
             "id": "chiyoda-cherry-blossom-matsuri",
             "title": "Chiyoda Cherry Blossom Matsuri",
-            "city": "Tokyo",
+            "city": "tokyo",
             "description": "The Chiyoda Cherry Blossom Matsuri is held when cherry blossoms are in bloom at Chidorigafuchi Moat, Yasukuni Shrine, and Kanda Shrine, all famous cherry blossom spots. In the evening, the trees are lit up along the Chidorigafuchi walking path and you can rent a rowboat at the Chidorigafuchi boat pier and see the lit-up flowers from the water.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8Cu2Ev83zeSgmr5kJVtgeRVDhzv5QpiUiO_CWjMby3pmebPHvllP3WINPKaJEREs2H7wHASutKx9ISRoNcccnAWH1ynHddpauxEo_THbW4FS8bW-4aab0qMcq40pfPqwPEU5cM3m3icVLdz9huVXpbz=w1200-h900-s-no?authuser=0",
             "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
@@ -118,7 +118,7 @@
         {
             "id": "mitama-matsuri",
             "title": "Mitama Matsuri",
-            "city": "Tokyo",
+            "city": "tokyo",
             "description": "Held at Yasukuni Shrine, the Mitama Matsuri festival is one of Tokyo's great Obon festivals, held to honour ancestors. ",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaUai-S2UClbTyhc47GLDD9p6bIKyK9jBemPjV05yYjAiN6l_uPxVov5Sv2yp-w1vfW6E5U0CPwnjI0E9e-ySsr9xkBelSCywEsSpYyJrKxIvUh_UyB1EQk7gxkbNvugRR5K43PL1F_M9vPu_DJfk_Gh=w1200-h800-s-no?authuser=0",
             "emails_registered": [
@@ -131,7 +131,7 @@
         {
             "id": "asagaya-tanabata-festival",
             "title": "Asagaya Tanabata Festival",
-            "city": "Tokyo",
+            "city": "tokyo",
             "description": "Held along the Pearl Center shopping arcade and Suzuran Shopping Street south of Asagaya Station, the Asagaya Tanabata Festival started soon after the end of World War II when local shop owners wanted to invigorate Asagaya.",
             "image": "https://lh3.googleusercontent.com/pw/AJFCJaVTKlZtwVvmO9FgVhEI9IJ16kVmnZTEY0TweTAY_h-_nih6AFUP80h-gApc3GOoOMqN5zq6auShMvlCWiCitiwq4e_whIjjrjDtQi5BYlX5tItylip5e1B5nJicyvi1ugbyGrPIbcFlggqb-ysT19UD=w1200-h800-s-no?authuser=0",
             "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
@@ -139,7 +139,7 @@
         {
             "id": "furusato-matsuri-tokyo",
             "title": "Furusato Matsuri Tokyo",
-            "city": "Tokyo",
+            "city": "tokyo",
             "description": "Furusato Matsuri Tokyo is a huge event with Japanese festivals and food from Hokkaido to Okinawa gathered in Tokyo Dome.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8DjtOW2OD3kLXkOFDSM49W5TtWOm02VmmAhbaGVmSdPDj-F7elzSxNunXM4V2HF056P7Vi563nzPLfOP_n1J8jwIMMxlw6686cnjhCvOPo2Dq3-52PTVuxkThU3_HH447xavOWsHXV8cugGERG1L5vC=w1200-h675-s-no?authuser=0",
             "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
@@ -147,7 +147,7 @@
         {
             "id": "tokyo-motor-show",
             "title": "Tokyo Motor Show",
-            "city": "Tokoy",
+            "city": "tokoy",
             "description": "A biennial exhibition for automobiles and motorcycles, the Tokyo Motor Show is more than just a car show.",
             "image": "https://lh3.googleusercontent.com/pw/AMWts8BFUINR5mASY4dNHJoUcr72z-wePFhMnU6LxqWV0eAiKR2vcblzhatxkazy5-IVwrBc4G5Ezq1vSp2wIWv10e8onsSL_hG1N83hWTR525il_0DuPU2-4L__eny9xasXU1pdDiEXo5VPfnzFi8Dcbzpn=w1200-h808-s-no?authuser=0",
             "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]

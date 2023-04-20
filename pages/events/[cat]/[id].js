@@ -4,5 +4,5 @@ const EventPage=()=> {
   )
 }
 
-export default Page;
+export default EventPage;
 
