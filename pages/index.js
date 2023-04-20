@@ -33,8 +33,8 @@ export default function Home({ data }) {
                         <Image
                             src={item.image}
                             alt={item.title}
-                            width={200}
-                            height={100}
+                            width={300}
+                            height={300}
                         />
                         <h2>{item.title}</h2>
                         <p>{item.description}</p>
