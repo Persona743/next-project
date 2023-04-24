@@ -1,4 +1,4 @@
-const FooterPage = () => {
+const Footer = () => {
     return (
         <footer>
             <p>
@@ -8,4 +8,4 @@ const FooterPage = () => {
     );
 };
 
-export default FooterPage;
+export default Footer;

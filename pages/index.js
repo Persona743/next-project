@@ -1,12 +1,9 @@
 import Head from 'next/head';
-import Image from 'next/image';
-import Link from 'next/link';
 
 import styles from '@/styles/Home.module.css';
 
 import HomePage from '@/src/components/home/home-page';
-import FooterPage from '@/src/components/footer/Footer-page';
-import Header from '@/src/components/header/Header';
+import Footer from '@/src/components/footer/Footer';
 
 export default function Home({ data }) {
     return (
@@ -24,9 +21,8 @@ export default function Home({ data }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <Header />
             <HomePage data={data} />
-            <FooterPage />
+            <Footer />
         </>
     );
 }
