@@ -1,7 +1,12 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
+
 import styles from '@/styles/Home.module.css';
+
+import HomePage from '@/src/components/home/home-page';
+import FooterPage from '@/src/components/footer/Footer-page';
+import Header from '@/src/components/header/Header';
 
 export default function Home({ data }) {
     return (
@@ -19,35 +24,9 @@ export default function Home({ data }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <header>
-                <nav>
-                    <Link href="/">Home</Link>
-                    <Link href="/events">Events</Link>
-                    <Link href="/about-us">About Us</Link>
-                </nav>
-            </header>
-
-            <main className={styles.main}>
-                {data.map((item) => (
-                    <Link href={`/events/${item.id}`} key={item.id} passHref>
-                        <Image
-                            src={item.image}
-                            alt={item.title}
-                            width={300}
-                            height={300}
-                        />
-                        <h2>{item.title}</h2>
-                        <p>{item.description}</p>
-                    </Link>
-                ))}
-            </main>
-
-            <footer className={styles.footer}>
-                <p>
-                    &copy; 2023 Code with Sia - A self project for NextJS
-                    framework
-                </p>
-            </footer>
+            <Header />
+            <HomePage data={data} />
+            <FooterPage />
         </>
     );
 }
