@@ -1,9 +1,6 @@
 import Head from 'next/head';
 
-import styles from '@/styles/Home.module.css';
-
 import HomePage from '@/src/components/home/home-page';
-import Footer from '@/src/components/footer/Footer';
 
 export default function Home({ data }) {
     return (
@@ -22,7 +19,6 @@ export default function Home({ data }) {
             </Head>
 
             <HomePage data={data} />
-            <Footer />
         </>
     );
 }
