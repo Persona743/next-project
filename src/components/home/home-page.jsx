@@ -15,7 +15,7 @@ const HomePage = ({ data }) => {
                         <Image
                             src={item.image}
                             alt={item.title}
-                            width={600}
+                            width={400}
                             height={400}
                         />
                     </div>

@@ -15,7 +15,7 @@ export const AllEvents = ({ data }) => {
                         src={item.image}
                         alt={item.title}
                         width={400}
-                        height={450}
+                        height={400}
                     />
                     <h2>{item.title}</h2>
                 </Link>

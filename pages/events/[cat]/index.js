@@ -1,31 +1,8 @@
-import Image from 'next/image';
-import Link from 'next/link';
+import { CatEvent } from '@/src/components/events/catEvent';
 
-const EventsCatPage = ({ data,pageName }) => {
-    return (
-        <div>
-            <h1>Events in {pageName}</h1>
-            <div>
-                {data.map((item) => (
-                    <Link
-                        key={item.id}
-                        href={`/events/${item.city}/${item.id}`}
-                        passHref
-                    >
-                        <Image
-                            src={item.image}
-                            alt={item.title}
-                            width={300}
-                            height={300}
-                        />
-                        <h2>{item.title}</h2>
-                        <p>{item.description}</p>
-                    </Link>
-                ))}
-            </div>
-        </div>
-    );
-};
+const EventsCatPage = ({ data, pageName }) => (
+    <CatEvent data={data} pageName={pageName} />
+);
 
 export default EventsCatPage;
 
@@ -52,6 +29,6 @@ export async function getStaticProps(context) {
     const data = allEvents.filter((item) => item.city === id);
 
     return {
-        props: { data, pageName:id },
+        props: { data, pageName: id },
     };
 }

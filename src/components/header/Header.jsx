@@ -26,9 +26,9 @@ const Header = () => {
                         </ul>
                     </nav>
                 </div>
-                <h1 className="title">
-                    Travel around the world and start you journy with us.
-                </h1>
+                <p className="title">
+                    Travel around the world and start you journy with us
+                </p>
             </div>
         </header>
     );
