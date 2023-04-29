@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export const SingleEvent = ({ data }) => {
     return (
-        <div>
+        <div className="event_single_page">
             <h1>{data.title}</h1>
             <Image
                 src={data.image}
@@ -11,9 +11,10 @@ export const SingleEvent = ({ data }) => {
                 alt={data.title}
             />
             <p>{data.description}</p>
-
-            <input type="email" />
-            <button>Submit</button>
+            <div className="email_registration">
+                <input type="email" />
+                <button>Submit</button>
+            </div>
         </div>
     );
 };
