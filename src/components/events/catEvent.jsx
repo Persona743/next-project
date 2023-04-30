@@ -14,6 +14,7 @@ export const CatEvent = ({ data, pageName }) => {
                         passHref
                     >
                         <Image
+                            priority
                             className="card"
                             src={item.image}
                             alt={item.title}

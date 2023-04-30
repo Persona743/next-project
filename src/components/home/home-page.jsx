@@ -13,6 +13,7 @@ const HomePage = ({ data }) => {
                 >
                     <div className="image">
                         <Image
+                            priority
                             src={item.image}
                             alt={item.title}
                             width={400}

@@ -11,6 +11,7 @@ const Header = () => {
                         width={140}
                         height={100}
                         alt="logo"
+                        priority
                     />
                     <nav>
                         <ul>
